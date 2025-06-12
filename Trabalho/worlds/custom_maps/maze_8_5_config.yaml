@@ -1,0 +1,4 @@
+image: maze_8_5.png
+resolution: 0.005
+origin: [-0.200000, -0.200000, 0.000000]
+occupied_thresh: 0.65

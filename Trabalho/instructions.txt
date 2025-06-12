@@ -1,0 +1,5 @@
+This work was developed in windows 11, but it is also compatible with windows 10 and Linux.
+To run this code you need to install webots and a python IDE(I used JetBrain PyCharm, when installing it should also install matplotlib, pandas, numpy and networkx)
+After installing the necessary applications, you should connect PyCharm to the directory of Webots.
+To run each algorithm, you need to open the maze located in *\worlds\custom_maps\maze_*_*.wbts on Webots and verify in the algorithm file if the map_name is the one maze selected in webots. Also, you need to verify if the final_positon, max_x and max_y are defined to the maze selected(only maze_10_* need different variables because of its size).
+After everything, you can run the code correctly.
